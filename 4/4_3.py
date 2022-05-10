@@ -1,0 +1,3 @@
+list_20_21 = [i for i in range(20, 241) if i % 20 == 0 or i % 21 == 0]
+
+print(list_20_21)
