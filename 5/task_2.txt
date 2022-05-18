@@ -1,3 +1,0 @@
-grey, red, black
-1, 2, 3
-sun, moon
